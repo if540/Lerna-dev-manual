@@ -1,2 +1,2 @@
 # Lerna-dev-manual
-Lerna 開發學
+Lerna 開發手冊
